@@ -3,13 +3,7 @@ A simple, interactive script to install Docker and Docker Compose aliases into y
 
 ## Installation
 
-### Option 1: One-liner (recommended)
-Installs directly into your current shell profile:
-```bash
-curl -sSL https://raw.githubusercontent.com/silvernailj/docker_aliases/main/docker_aliases.sh | bash
-```
-
-### Option 2: Clone and run manually
+Clone and run manually
 ```bash
 git clone https://github.com/silvernailj/docker_aliases.git
 cd docker_aliases
